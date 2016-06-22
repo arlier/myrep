@@ -1,4 +1,3 @@
 # myrep
-myfirst repository for test
-to add my new descriptions and some other things 
 it's just look very cool！
+for another time to edit it 
